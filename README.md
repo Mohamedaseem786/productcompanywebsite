@@ -40,8 +40,13 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
-
+![output](./images/Home1.jpeg)
+### Products:
+![output](./images/products1.jpeg)
+### People:
+![output](./images/People.jpeg)
+### Contact us:
+![output](./images/contact.jpeg)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
